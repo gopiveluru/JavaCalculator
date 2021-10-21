@@ -30,7 +30,7 @@ public class Calculator {
 	//product function logic change
 	public long mulFucn(long first, long second){
 		
-		return first/second;
+		return first*second;
 	}
 	
 	
